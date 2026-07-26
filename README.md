@@ -508,7 +508,7 @@ The deployed application provides:
 - Real-time annual healthcare insurance premium predictions.
 - Fast, reliable, and consistent predictions powered by the trained machine learning models.
 
-🔗 **Live Application:** 
+🔗 **Live Application:** https://healthcare-premium-prediction-system.streamlit.app
 
 ---
 
