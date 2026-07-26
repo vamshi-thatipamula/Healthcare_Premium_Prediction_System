@@ -5,6 +5,9 @@
 # 🏥 Healthcare Premium Prediction System
 Machine Learning Regression Project for predicting Annual Health Insurance Premiums using Business-Driven Error Analysis and Streamlit Deployment.
 
+## 🚀 Live Demo
+🔗 **Live Application:** https://healthcare-premium-prediction-system.streamlit.app
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -16,9 +19,6 @@ Machine Learning Regression Project for predicting Annual Health Insurance Premi
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-## 🌐 Live Application
-🔗 **Try the application here:** https://healthcare-premium-prediction-system.streamlit.app
 
 ## 📖 1. Project Overview
 
