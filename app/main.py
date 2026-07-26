@@ -6,13 +6,13 @@ from prediction_helper import predict
 # Configure Streamlit Page
 
 st.set_page_config(
-    page_title="Health Insurance Premium Prediction System",
+    page_title="Healthcare Premium Prediction System",
     page_icon="🏥",
     layout="wide")
 
 # Display Application Title
 
-st.title("🏥 Health Insurance Premium Prediction System")
+st.title("🏥 Healthcare Premium Prediction System")
 
 st.write(
     "Provide the customer details below to estimate the annual health insurance premium.")
