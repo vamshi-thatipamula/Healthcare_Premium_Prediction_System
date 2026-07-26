@@ -20,7 +20,6 @@ Machine Learning Regression Project for predicting Annual Health Insurance Premi
 ## 🌐 Live Application
 🔗 **Try the application here:** https://healthcare-premium-prediction-system.streamlit.app
 
-
 ## 📖 1. Project Overview
 
 The **Healthcare Premium Prediction System** is a machine learning regression project developed to estimate annual health insurance premiums based on an individual's demographic, lifestyle, and health-related attributes. The project aims to improve the consistency and accuracy of premium estimation by leveraging data-driven predictive models instead of relying solely on manual assessment.
