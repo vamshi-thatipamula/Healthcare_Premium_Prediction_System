@@ -494,7 +494,7 @@ The application allows users to enter customer demographic, financial, medical, 
 - Fast and reliable predictions without requiring any machine learning knowledge from the end user.
 
 <p align="center">
-  <img src="images/streamlit_dashboard.png" alt="Streamlit Dashboard" width="100%">
+  <img src="images/healthcare_premium_prediction_dashboard.png" alt="Streamlit Dashboard" width="100%">
 </p>
 
 ---
