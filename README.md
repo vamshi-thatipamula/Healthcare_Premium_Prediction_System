@@ -160,7 +160,7 @@ Healthcare_Premium_Prediction_Regression/
 │   ├── young_model_residual_errors.png
 │   ├── adult_model_with_dummy_genetical_risk_residual_errors.png
 │   ├── young_model_with_genetical_risk_residual_errors.png
-│   └── streamlit_dashboard.png
+│   └── healthcare_premium_prediction_dashboard.png
 │
 ├── assets/
 │   └── project_banner.png
